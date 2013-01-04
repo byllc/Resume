@@ -26,7 +26,7 @@ Software Development.
 ### Software Development Team Lead,  Academic Software Plus / Liaison Intl.
 **August 2011 - Present**
 Responsible for technical mentoring and leadership of a medium sized team of application
-developers.  
+developers.
 
 ### Consultant / Partner, Division By Zero LLC
 **July 2006 - Present**
@@ -97,4 +97,4 @@ Provided end user phone support for Microsoft products contracted through Softba
 ## Affiliations and Appointments
 ### Board of Professional Advisors - Professional Science Masters program in Applied Mathematics - State University of New York College at Buffalo
 ### Board Member and Technology Consultant - Building Bridges Network
-### Partner / Technology Advisor BLO Boards 
+### Partner / Technology Advisor - BLO Boards 
