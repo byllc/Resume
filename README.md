@@ -1,18 +1,21 @@
 # William W. Chapman II
 5180 Ledge Ln.
 Williamsville, NY 14221
+wwchapman+resume@gmail.com
+
+## Available for Contract Work, Remote Employment, Flexible Office Schedules
 
 ## Education
 
 ### M.A. Mathematics, State University of New York at Buffalo
-** Awards and Honors: Graduate Assistant Scholarship
+**Awards and Honors: Graduate Assistant Scholarship**
 
 ### B.S. Mathematics, State University of New York College at Buffalo
-** Awards and Honors: National Science Foundation Scholarship, Deans List, Math Department 
-Outstanding Undergraduate Award
+**Awards and Honors: National Science Foundation Scholarship, Deans List, Math Department 
+Outstanding Undergraduate Award**
 
 ### A.S. Computer Science, Erie Community College
-** Awards and Honors: Phi Theta Kappa Honor Society, Deans List**
+**Awards and Honors: Phi Theta Kappa Honor Society, Deans List**
 
 ## Experience
 I have worked with many companies as a consultant and as a direct wage employee. My consulting ventures
