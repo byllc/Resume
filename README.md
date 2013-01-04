@@ -3,7 +3,7 @@
 Williamsville, NY 14221
 wwchapman+resume@gmail.com
 
-## Available for Contract Work, Remote Employment, Flexible Office Schedules
+**Available for contract work, full or partial remote employment**
 
 ## Education
 
