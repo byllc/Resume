@@ -113,10 +113,10 @@ technologies including Java, PHP, MS Access, Alpha 5
 
 
 ## Affiliations and Appointments
-### Co-Founder - Western New York Ruby Users Group
-### Board of Professional Advisors - Professional Science Masters program in Applied Mathematics - State University of New York College at Buffalo
-### Board Member and Technology Consultant - Building Bridges Network
-### Partner / Technology Advisor - BLO Boards 
+* Co-Founder - Western New York Ruby Users Group
+* Board of Professional Advisors - Professional Science Masters program in Applied Mathematics - State University of New York College at Buffalo
+* Board Member and Technology Consultant - Building Bridges Network
+* Partner / Technology Advisor - BLO Boards 
 
 
 ## Certifications
