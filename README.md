@@ -53,14 +53,14 @@ a team of remote  developers, contributing architecture, management and developm
 to their flagship project.
 
 ### Partner, Surplus Stock Exchange 
-** May 2006 - August 2007**
+**May 2006 - August 2007**
 * Co-Founder: 
 * Software Developer: Along with two senior developers we successfully built a system for distributing and
 categorizing millions of surplus tooling parts and machinery. The final product was a Ruby on Rails applications with
 significant javascript and minor Flash components. 
 
 ### Partner/CTO, Medical Records Online Inc
-** May 2005 - April 2006 **
+**May 2005 - April 2006 **
 * Co-Founder: As the technical partner I was responsible for putting together a team of developers and
 managing the technical goals of the project. 
 
