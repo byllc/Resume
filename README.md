@@ -56,7 +56,7 @@ to their flagship project.
 **May 2006 - August 2007**
 * Co-Founder: 
 * Software Developer: Along with two senior developers we successfully built a system for distributing and
-categorizing millions of surplus tooling parts and machinery. The final product was a Ruby on Rails applications with
+categorizing millions of surplus tooling parts and machinery. The final product was a Ruby on Rails application with
 significant javascript and minor Flash components. 
 
 ### Partner/CTO, Medical Records Online Inc
