@@ -5,10 +5,11 @@ wwchapman+resume@gmail.com
 
 
 ## Experience
-I have worked with many companies as a consultant and as a direct wage employee. My consulting ventures
-have often overlapped with each other and with direct hire positions. I have a wide range of experience in 
-computing and information technology. Including over 15 Years total experience in Information Technology and 
-Software Development.
+I have worked with many companies as a consultant and as a direct wage employee. I have also played a signficant
+role in several start ups as a co founder or technical consultant. My consulting ventures have often overlapped 
+with each other and with direct hire positions. I have a wide range of experience in computing and information technology. 
+Including over 15 Years total experience in Information Technology and Software Development. 
+I have maintained long term relationships with companies I have consulted and worked for.
 
 ### Software Development Team Lead,  Academic Software Plus / Liaison Intl.
 **August 2011 - Present**
@@ -28,31 +29,19 @@ Software Development.
 
 ### Software Developer / Systems Administrator, Academic Software Plus / Liaison Intl.
 **August 2009-August 2011**
-* Senior Software Developer: 
-* Application Deployment: 
-* Systems Administration: 
-
-Helped design, maintain and deploy a large-scale software suite for processing college applications 
-for graduate admissions offices. My primary role was to develop and maintain a real time 
-ETL platform to coordinate data between a large suite of active web applications. 
+* Senior Software Developer: Was hired to help architect a college admissions portal in Ruby on Rails
+* Application Deployment: Provided significant expertise in Ruby application deployment
+* Systems Administration: General linux system administration and support for other members of the team 
+* Enterprise Architect: Designed maintained and deployed a real time ETL solution in Ruby to coordinate data
+between a large suite of college applications portals and our admissions application. 
 
 
 ### Application Support and Deployment Engineer, Engine Yard Inc.
 **May 2008 - August 2009**
-* Application Support
-* Deployment
-* Systems Administration
-* Customer Support
-Application Support Engineer: Troubleshooting and configuring mission critical applications and environments 
-spread across multiple large scale computing clusters. Responsibilities included
-developing and maintaining various internal software projects related to the 
-interactive management of clusters and applications. 
-
-Deployment Engineer: As a member of the application 
-deployment team we deployed every application residing on the company clusters.
-At the time I had personally deployed and/or helped maintain hundreds of applications 
-utilizing a myriad  technologies, including but not limited to Rails, Merb, Sinatra, Rails,
-PHP, and Java
+* Application Support: Provided systems and code level applications and technical support for Ruby/Rails/PHP/SQL and supporting technologies
+* Deployment: Spent several months as a member of our deployment team deploying a large number Rails applications
+* Systems Administration: Responsible for general linux system administration tasks, process monitoring, log rotation, performance troubleshooting etc..
+* Customer Support: Occasionally assisting customers on the phone or in person at public events with technical issues. 
 
 ### Senior Software Developer, Object Insight Inc. 
 **November 2007 - May 2008**
@@ -86,10 +75,10 @@ technologies including Java, PHP, MS Access, Alpha 5
 
 ### Technical Support/Corporate Trainer/Systems Administrator, User Friendly YCS
 **December 1998 - May 2000**
-* Corporate Training
-* Software and Hardware troubleshooting
-* Technical Support
-* PC Repair
+* Corporate Training: Provided structured training classes in Office applications
+* Software and Hardware troubleshooting: PC Repair and System Building
+* Technical Support: End User customer support in person and via telephone
+
 
 ### End User Support, Softbank Services Group/Microsoft
 **1997**
@@ -97,9 +86,9 @@ technologies including Java, PHP, MS Access, Alpha 5
 
 ### Reserve Infantryman / Marksmanship Instructor, United States Marine Corps
 **May1996 – May 2003**
-* Marksmanship Instructor:
-* Communications Operator:
-* Team Leader:
+* Marksmanship Instructor: Responsible for marksmanship training of individual marines
+* Communications Operator: Radio communications and company wide communications coordination
+* Team Leader: Performed both the roles of squad and team leader at various times
 
 ## Technical Expertise
 * Worked professionally with:  Ruby, C, Objective-C, Java, PHP, Javascript, Actionscript, SQL, Visual Basic
