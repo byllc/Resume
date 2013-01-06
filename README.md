@@ -3,19 +3,6 @@
 Williamsville, NY 14221
 wwchapman+resume@gmail.com
 
-**Available for contract work, full or partial remote employment**
-
-## Education
-
-### M.A. Mathematics, State University of New York at Buffalo
-**Awards and Honors: Graduate Assistant Scholarship**
-
-### B.S. Mathematics, State University of New York College at Buffalo
-**Awards and Honors: National Science Foundation Scholarship, Deans List, Math Department 
-Outstanding Undergraduate Award**
-
-### A.S. Computer Science, Erie Community College
-**Awards and Honors: Phi Theta Kappa Honor Society, Deans List**
 
 ## Experience
 I have worked with many companies as a consultant and as a direct wage employee. My consulting ventures
@@ -25,21 +12,25 @@ Software Development.
 
 ### Software Development Team Lead,  Academic Software Plus / Liaison Intl.
 **August 2011 - Present**
-Responsible for technical mentoring and leadership of a medium sized team of application
-developers.
+* Team Mentor: Responsible for Training, Code Review and general Mentorship
+* Technical Leadership:  
+* Systems Architecture: Responsible for high and low level technical decisions and coordinating with our Senior Architect
 
 ### Consultant / Partner, Division By Zero LLC
-**July 2006 - Present**
-Coordination and management of several large web application projects including
-but not limited to: an occupational risk management classification system, an office management and
-payroll system for a occupational medical examination and an employee and staff management
-system for a staffing agency. As a member of a small consulting and business intelligence team I am
-responsible for determining customer requirements, implementing application features, designing
-system architectures and communicating business requirements to the rest of the team.
+**July 2007 - Present**
+* Partner: Co-founded a successful consulting venture 
+* Project Manager: Managed customer expectations and distilled requirements for the rest of the team
+* Architect: Responsible for both high an low level design and implementation decisions
+* Software Developer: Worked on a wide range of projects in Ruby/Rails, Java, Bash, Javascript, PHP, Visual Basic, SQL
+  projects included but are not limited to an occupational risk management classification system, an office management and
+  payroll system,  a CRM system for a staffing agency and a real time call center analytics dashboard for a large telecom. 
 
 
 ### Software Developer / Systems Administrator, Academic Software Plus / Liaison Intl.
 **August 2009-August 2011**
+* Senior Software Developer: 
+* Application Deployment: 
+* Systems Administration: 
 
 Helped design, maintain and deploy a large-scale software suite for processing college applications 
 for graduate admissions offices. My primary role was to develop and maintain a real time 
@@ -48,6 +39,10 @@ ETL platform to coordinate data between a large suite of active web applications
 
 ### Application Support and Deployment Engineer, Engine Yard Inc.
 **May 2008 - August 2009**
+* Application Support
+* Deployment
+* Systems Administration
+* Customer Support
 Application Support Engineer: Troubleshooting and configuring mission critical applications and environments 
 spread across multiple large scale computing clusters. Responsibilities included
 developing and maintaining various internal software projects related to the 
@@ -61,40 +56,78 @@ PHP, and Java
 
 ### Senior Software Developer, Object Insight Inc. 
 **November 2007 - May 2008**
+* Senior Software Developer: Responsible for architecture and 
+* Consultant:  Relationship with this company continued post employment via 
+Division By Zero consulting.
 Assisted with the technical bootstrapping of this business. Responsibilities included managing 
 a team of remote  developers, contributing architecture, management and development efforts 
-to their flagship project. Relationship with this company continued post employment via 
-Division By Zero consulting.
+to their flagship project.
 
+### Partner, Surplus Stock Exchange 
+** May 2006 - August 2007**
+* Co-Founder: 
+* Software Developer: Along with two senior developers we successfully built a system for distributing and
+categorizing millions of surplus tooling parts and machinery. The final product was a Ruby on Rails applications with
+significant javascript and minor Flash components. 
+
+### Partner/CTO, Medical Records Online Inc
+** May 2005 - April 2006 **
+* Co-Founder: As the technical partner I was responsible for putting together a team of developers and
+managing the technical goals of the project. 
 
 ### Owner (DBA) WCTS Consulting 
 **May 2000 - May 2005**
-
-Provided IT and software solutions for were small to medium sized 
-businesses and organizations who needed a technical staff but did not require a full time team.
-My primary business model was based on third party network administration I also did a significant 
-amount of software development and end user training. I still maintain professional relationships 
-with several of these early clients. 
+* Software and Hardware Troubleshooting
+* Network and Server administration: Provided Server administration for Linux, Windows and Novell platforms. 
+* Corporate Training: Provided structured training and generated courseware for Office and Internet Applications
+* Software Development: Developed a PHP based content management system as well as the initial version of a patient management
+system for an occupational medical company also in PHP. I was often called to troubleshoot and fix software in many different 
+technologies including Java, PHP, MS Access, Alpha 5  
 
 ### Technical Support/Corporate Trainer/Systems Administrator, User Friendly YCS
 **December 1998 - May 2000**
+* Corporate Training
+* Software and Hardware troubleshooting
+* Technical Support
+* PC Repair
 
 ### End User Support, Softbank Services Group/Microsoft
 **1997**
-Provided end user phone support for Microsoft products contracted through Softbank. 
+* Customer Support:  Provided end user phone support directly for Microsoft. 
 
 ### Reserve Infantryman / Marksmanship Instructor, United States Marine Corps
 **May1996 – May 2003**
+* Marksmanship Instructor:
+* Communications Operator:
+* Team Leader:
 
 ## Technical Expertise
-  **Worked professionally with:  Ruby, C, Objective-C, Java, PHP, Javascript, Actionscript, SQL**
-  **Academic and hobby knowledge: Erlang, Smalltalk, Go, and many other languages**
-  **Supported and developed on: Linux/Unix, MacOS and Windows**
-  **Database Experience: PostgreSQL, MySQL, MSSQL and Redis**
-  **Enterprise Patterns: Real Time data migration and ETL solutions **
-  
+* Worked professionally with:  Ruby, C, Objective-C, Java, PHP, Javascript, Actionscript, SQL, Visual Basic
+* Academic and hobby knowledge: MPI(C), Matlab, Mathematica, Erlang, Smalltalk, Go, and other languages,
+* System Administration: Linux/Unix, MacOS and Windows
+* Database Experience: PostgreSQL, MySQL, MSSQL and Redis, MS Access
+* Enterprise Patterns: Real Time data migration and ETL solutions, Parallelization, Process Scaling
+
+## Education
+
+### M.A. Mathematics, State University of New York at Buffalo
+* Awards and Honors:  Graduate Assistant Scholarship
+* Technical Coursework: High Performance Computing, Graduate Project in Analysis (C and Ruby), Numerical Analysis
+
+### B.S. Mathematics, State University of New York College at Buffalo
+* Awards and Honors: National Science Foundation Scholarship, Deans List, Math Department Outstanding Undergraduate Award
+* Technical Coursework: Numerical Analysis I/II, Differential Equations (Mathematica), High Performance Computing Club
+
+### A.S. Computer Science, Erie Community College
+* Awards and Honors: Phi Theta Kappa Honor Society, Deans List
+* Technical Coursework: CS I/II/III, Advanced Data Structures, Computer Organization, Assembly Language, Intro to Java
+
 
 ## Affiliations and Appointments
 ### Board of Professional Advisors - Professional Science Masters program in Applied Mathematics - State University of New York College at Buffalo
 ### Board Member and Technology Consultant - Building Bridges Network
 ### Partner / Technology Advisor - BLO Boards 
+
+
+## Certifications
+  Comptia A+, Comptia Network+, Certified Novel Administrator(1999)
