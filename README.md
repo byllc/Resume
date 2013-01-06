@@ -1,7 +1,7 @@
 # William W. Chapman II
 5180 Ledge Ln.
 Williamsville, NY 14221
-wwchapman+resume@gmail.com
+**wwchapman+resume@gmail.com**
 
 
 ## Experience
@@ -38,7 +38,7 @@ between a large suite of college applications portals and our admissions applica
 
 ### Application Support and Deployment Engineer, Engine Yard Inc.
 **May 2008 - August 2009**
-* Application Support: Provided systems and code level applications and technical support for Ruby/Rails/PHP/SQL and supporting technologies
+* Application Support: System and code level application and technical support for Ruby/Rails/PHP/SQL and supporting technologies
 * Deployment: Spent several months as a member of our deployment team deploying a large number Rails applications
 * Systems Administration: Responsible for general linux system administration tasks, process monitoring, log rotation, performance troubleshooting etc..
 * Customer Support: Occasionally assisting customers on the phone or in person at public events with technical issues. 
@@ -84,7 +84,7 @@ technologies including Java, PHP, MS Access, Alpha 5
 **1997**
 * Customer Support:  Provided end user phone support directly for Microsoft. 
 
-### Reserve Infantryman / Marksmanship Instructor, United States Marine Corps
+### Reserve Infantryman / Marksmanship Instructor, United States Marine Corps Reserve
 **May1996 – May 2003**
 * Marksmanship Instructor: Responsible for marksmanship training of individual marines
 * Communications Operator: Radio communications and company wide communications coordination
