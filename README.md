@@ -111,6 +111,10 @@ technologies including Java, PHP, MS Access, Alpha 5
 * Awards and Honors: Phi Theta Kappa Honor Society, Deans List
 * Technical Coursework: CS I/II/III, Advanced Data Structures, Computer Organization, Assembly Language, Intro to Java
 
+### Certificate in Supervisory Skills, State University of New York at Buffalo School of Management
+
+## Presentations
+### Think Twice Code Once,  Mountain West Ruby Conference 2013
 
 ## Affiliations and Appointments
 * Co-Founder - Western New York Ruby Users Group
