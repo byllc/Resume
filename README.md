@@ -115,8 +115,10 @@ technologies including Java, PHP, MS Access, Alpha 5
 
 ## Presentations
 ### Think Twice Code Once,  Mountain West Ruby Conference 2013
+### Adventures in Data Sitting, Western New York Ruby 2012
 
 ## Affiliations and Appointments
+* Co-Organizer - Nickle City Ruby Conference
 * Co-Founder - Western New York Ruby Users Group
 * Board of Professional Advisors - Professional Science Masters program in Applied Mathematics - State University of New York College at Buffalo
 * Board Member and Technology Consultant - Building Bridges Network
