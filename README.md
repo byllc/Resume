@@ -92,8 +92,8 @@ technologies including Java, PHP, MS Access, Alpha 5
 
 ## Technical Expertise
 * Worked professionally with:  Ruby, C, Objective-C, Java, PHP, Javascript, Actionscript, SQL, Visual Basic
-* Academic and hobby knowledge: MPI(C), Matlab, Mathematica, Erlang, Smalltalk, Go, and other languages,
-* System Administration: Linux/Unix, MacOS and Windows
+* Academic and hobby knowledge: MPI(C), Matlab, Mathematica, Erlang, Smalltalk, Go, and other languages, Electronics and Microcontrollers
+* System Administration: Linux/Unix, MacOS and Windows, Novell (CNA)
 * Database Experience: PostgreSQL, MySQL, MSSQL and Redis, MS Access
 * Enterprise Patterns: Real Time data migration and ETL solutions, Parallelization, Process Scaling
 
