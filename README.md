@@ -11,7 +11,7 @@ with each other and with direct hire positions. I have a wide range of experienc
 Including over 15 Years total experience in Information Technology and Software Development. 
 I have maintained long term relationships with companies I have consulted and worked for.
 
-### Software Development Team Lead,  Academic Software Plus / Liaison Intl.
+### Software Development Team Lead / Development Manager,  Academic Software Plus / Liaison Intl.
 **August 2011 - Present**
 * Team Mentor: Responsible for Training, Code Review and general Mentorship
 * Technical Leadership:  
