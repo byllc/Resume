@@ -1,6 +1,4 @@
 # William W. Chapman II
-5180 Ledge Ln.
-Williamsville, NY 14221
 **wwchapman+resume@gmail.com**
 
 ## Experience
@@ -63,11 +61,9 @@ significant javascript and minor Flash components.
 managing the technical goals of the project. I was also responsible for being part of all business related decisions.
 * Successfully launched an online medical records solution in 8 months including ICD9/10,NDCD, and HL7 integrations as well as limited social network capabilities. 
 
-
 ### Graduate Teaching Assistant, State University of New York at Buffalo
 * Taught and mentored students in undergraduate level mathematics
 * Course assignments included All levels of Calculus, Differential and Partial Differential Equations, Linear Algebra and Numerical Analysis
-
 
 ### Owner (DBA) WCTS Consulting 
 **May 2000 - May 2005** 
@@ -116,11 +112,12 @@ technologies including Java, PHP, MS Access, Alpha 5 and Various other languages
 * Technical Coursework: CS I/II/III, Advanced Data Structures, Computer Organization, Assembly Language, Intro to Java
 
 ### Certificate in Supervisory Skills, State University of New York at Buffalo School of Management
+* Coursework: Interpersonal Communications, Personality Profiles, Conflict Resolution, Counselling and Mentoring 
 
 ## Presentations and Papers
 ### Think Twice Code Once,  Mountain West Ruby Conference 2013
 ### Adventures in Data Sitting, Western New York Ruby 2012
-### An exploration of Modified Matheiu's Equation, SUNY Buffalo 2006 (Unpublished)
+### An exploration of Modified Matheiu's Equation, SUNY Buffalo 2006 (Unpublished Thesis)
 
 ## Affiliations and Appointments
 * Co-Organizer - Nickle City Ruby Conference
