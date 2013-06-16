@@ -5,7 +5,7 @@
 I have worked with many companies as a consultant and as a direct wage employee. I have played a signficant
 role in several start ups as a co founder or technical consultant.  I have a wide range of experience in computing and information technology. 
 Including over 15 Years total experience in Information Technology and Software Development. 
-I have maintained long term relationships with companies I have consulted and worked for many of whom continue to consider me a trusted
+I have maintained long term relationships with companies I have consulted and worked for,  many of whom continue to consider me a trusted
 source for assisting in their technology decisions.
 
 ### Software Development Team Lead / Development Manager,  Academic Software Plus / Liaison Intl.
