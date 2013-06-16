@@ -55,7 +55,7 @@ to their flagship project.
 categorizing millions of surplus tooling parts and machinery. The final product was a Ruby on Rails application with
 significant javascript and minor Flash components. 
 
-### Partner/CTO, Medical Records Online Inc
+### Partner, Medical Records Online Inc
 **May 2005 - April 2006 **
 * Co-Founder: As the technical partner I was responsible for putting together a team of developers and
 managing the technical goals of the project. I was also responsible for being part of all business related decisions.
