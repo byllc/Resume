@@ -3,16 +3,16 @@
 Williamsville, NY 14221
 **wwchapman+resume@gmail.com**
 
-
 ## Experience
-I have worked with many companies as a consultant and as a direct wage employee. I have also played a signficant
-role in several start ups as a co founder or technical consultant. My consulting ventures have often overlapped 
-with each other and with direct hire positions. I have a wide range of experience in computing and information technology. 
+I have worked with many companies as a consultant and as a direct wage employee. I have played a signficant
+role in several start ups as a co founder or technical consultant.  I have a wide range of experience in computing and information technology. 
 Including over 15 Years total experience in Information Technology and Software Development. 
-I have maintained long term relationships with companies I have consulted and worked for.
+I have maintained long term relationships with companies I have consulted and worked for many of whom continue to consider me a trusted
+source for assisting in their technology decisions.
 
 ### Software Development Team Lead / Development Manager,  Academic Software Plus / Liaison Intl.
 **August 2011 - Present**
+* Software Manager: Responsible for administrative management of a medium sized, co-located technical team
 * Team Mentor: Responsible for Training, Code Review and general Mentorship
 * Technical Leadership:  
 * Systems Architecture: Responsible for high and low level technical decisions and coordinating with our Senior Architect
@@ -26,7 +26,6 @@ I have maintained long term relationships with companies I have consulted and wo
   projects included but are not limited to an occupational risk management classification system, an office management and
   payroll system,  a CRM system for a staffing agency and a real time call center analytics dashboard for a large telecom. 
 
-
 ### Software Developer / Systems Administrator, Academic Software Plus / Liaison Intl.
 **August 2009-August 2011**
 * Senior Software Developer: Was hired to help architect a college admissions portal in Ruby on Rails
@@ -34,7 +33,6 @@ I have maintained long term relationships with companies I have consulted and wo
 * Systems Administration: General linux system administration and support for other members of the team 
 * Enterprise Architect: Designed maintained and deployed a real time ETL solution in Ruby to coordinate data
 between a large suite of college applications portals and our admissions application. 
-
 
 ### Application Support and Deployment Engineer, Engine Yard Inc.
 **May 2008 - August 2009**
@@ -54,31 +52,37 @@ to their flagship project.
 
 ### Partner, Surplus Stock Exchange 
 **May 2006 - August 2007**
-* Co-Founder: 
-* Software Developer: Along with two senior developers we successfully built a system for distributing and
+* Co-Founder:
+* Senior Software Developer: Along with two senior developers we successfully built a system for distributing and
 categorizing millions of surplus tooling parts and machinery. The final product was a Ruby on Rails application with
 significant javascript and minor Flash components. 
 
 ### Partner/CTO, Medical Records Online Inc
 **May 2005 - April 2006 **
 * Co-Founder: As the technical partner I was responsible for putting together a team of developers and
-managing the technical goals of the project. 
+managing the technical goals of the project. I was also responsible for being part of all business related decisions.
+* Successfully launched an online medical records solution in 8 months including ICD9/10,NDCD, and HL7 integrations as well as limited social network capabilities. 
+
+
+### Graduate Teaching Assistant, State University of New York at Buffalo
+* Taught and mentored students in undergraduate level mathematics
+* Course assignments included All levels of Calculus, Differential and Partial Differential Equations, Linear Algebra and Numerical Analysis
+
 
 ### Owner (DBA) WCTS Consulting 
-**May 2000 - May 2005**
-* Software and Hardware Troubleshooting
+**May 2000 - May 2005** 
 * Network and Server administration: Provided Server administration for Linux, Windows and Novell platforms. 
 * Corporate Training: Provided structured training and generated courseware for Office and Internet Applications
 * Software Development: Developed a PHP based content management system as well as the initial version of a patient management
 system for an occupational medical company also in PHP. I was often called to troubleshoot and fix software in many different 
-technologies including Java, PHP, MS Access, Alpha 5  
+technologies including Java, PHP, MS Access, Alpha 5 and Various other languages and frameworks. 
+* Software and Hardware Troubleshooting.
 
 ### Technical Support/Corporate Trainer/Systems Administrator, User Friendly YCS
 **December 1998 - May 2000**
 * Corporate Training: Provided structured training classes in Office applications
 * Software and Hardware troubleshooting: PC Repair and System Building
 * Technical Support: End User customer support in person and via telephone
-
 
 ### End User Support, Softbank Services Group/Microsoft
 **1997**
@@ -113,17 +117,17 @@ technologies including Java, PHP, MS Access, Alpha 5
 
 ### Certificate in Supervisory Skills, State University of New York at Buffalo School of Management
 
-## Presentations
+## Presentations and Papers
 ### Think Twice Code Once,  Mountain West Ruby Conference 2013
 ### Adventures in Data Sitting, Western New York Ruby 2012
+### An exploration of Modified Matheiu's Equation, SUNY Buffalo 2006 (Unpublished)
 
 ## Affiliations and Appointments
 * Co-Organizer - Nickle City Ruby Conference
 * Co-Founder - Western New York Ruby Users Group
 * Board of Professional Advisors - Professional Science Masters program in Applied Mathematics - State University of New York College at Buffalo
-* Board Member and Technology Consultant - Building Bridges Network
-* Partner / Technology Advisor - BLO Boards 
-
+* Board Member and Technology Consultant - Building Bridges Network (2007)
+* Partner / Technology Advisor - BLO Boards, B.Loved
 
 ## Certifications
   Comptia A+, Comptia Network+, Certified Novel Administrator(1999)
