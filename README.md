@@ -11,7 +11,7 @@ source for assisting in their technology decisions.
 ### Software Development Team Lead / Development Manager,  Academic Software Plus / Liaison Intl.
 **August 2011 - Present**
 * Software Manager: Responsible for administrative management of a medium sized, co-located technical team
-* Team Mentor: Responsible for Training, Code Review and general Mentorship
+* Team Mentor: Responsible for training, code review and general mentorship
 * Technical Leadership:  
 * Systems Architecture: Responsible for high and low level technical decisions and coordinating with our Senior Architect
 
