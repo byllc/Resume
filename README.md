@@ -50,8 +50,8 @@ to their flagship project.
 
 ### Partner, Surplus Stock Exchange 
 **May 2006 - August 2007**
-* Co-Founder:
-* Senior Software Developer: Along with two senior developers we successfully built a system for distributing and
+* Co-Founder: Contributing to business related decisions as part of a small startup team. 
+* Senior Software Developer: Along with two other developers we successfully built a system for distributing and
 categorizing millions of surplus tooling parts and machinery. The final product was a Ruby on Rails application with
 significant javascript and minor Flash components. 
 
@@ -59,7 +59,7 @@ significant javascript and minor Flash components.
 **May 2005 - April 2006 **
 * Co-Founder: As the technical partner I was responsible for putting together a team of developers and
 managing the technical goals of the project. I was also responsible for being part of all business related decisions.
-* Successfully launched an online medical records solution in 8 months including ICD9/10,NDCD, and HL7 integrations as well as limited social network capabilities. 
+* Successfully launched an online medical records solution in 8 months including ICD9/10,NDCD, and HL7 integrations and limited social network capabilities. 
 
 ### Graduate Teaching Assistant, State University of New York at Buffalo
 * Taught and mentored students in undergraduate level mathematics
@@ -92,10 +92,16 @@ technologies including Java, PHP, MS Access, Alpha 5 and Various other languages
 
 ## Technical Expertise
 * Worked professionally with:  Ruby, C, Objective-C, Java, PHP, Javascript, Actionscript, SQL, Visual Basic
-* Academic and hobby knowledge: MPI(C), Matlab, Mathematica, Erlang, Smalltalk, Go, and other languages, Electronics and Microcontrollers
+* Academic and hobby knowledge: MPI(C), Matlab, Mathematica, Erlang, Smalltalk, Go, and other languages, Electronics and Microcontrollers, OpenScad
 * System Administration: Linux/Unix, MacOS and Windows, Novell (CNA)
 * Database Experience: PostgreSQL, MySQL, MSSQL and Redis, MS Access
 * Enterprise Patterns: Real Time data migration and ETL solutions, Parallelization, Process Scaling
+
+## Administrative Experience
+* Training, Mentoring
+* Management of small and medium sized teams
+* Coordinating remote teams
+* Business anaysis and project management
 
 ## Education
 
@@ -127,4 +133,4 @@ technologies including Java, PHP, MS Access, Alpha 5 and Various other languages
 * Partner / Technology Advisor - BLO Boards, B.Loved
 
 ## Certifications
-  Comptia A+, Comptia Network+, Certified Novel Administrator(1999)
+  Comptia A+, Comptia Network+, Certified Novel Administrator(1999), Apple Certified Technician
