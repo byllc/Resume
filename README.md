@@ -41,7 +41,7 @@ between a large suite of college applications portals and our admissions applica
 
 ### Senior Software Developer, Object Insight Inc. 
 **November 2007 - May 2008**
-* Senior Software Developer: Responsible for architecture and 
+* Senior Software Developer. Brought on to help this start-up reach MVP
 * Consultant:  Relationship with this company continued post employment via 
 Division By Zero consulting.
 Assisted with the technical bootstrapping of this business. Responsibilities included managing 
@@ -132,5 +132,5 @@ technologies including Java, PHP, MS Access, Alpha 5 and Various other languages
 * Board Member and Technology Consultant - Building Bridges Network (2007)
 * Partner / Technology Advisor - BLO Boards, B.Loved
 
-## Certifications
-  Comptia A+, Comptia Network+, Certified Novel Administrator(1999), Apple Certified Technician
+## Certifications (currently here for posterity) 
+  Comptia A+(1998), Comptia Network+(1999), Certified Novel Administrator(1999), Apple Certified Technician
