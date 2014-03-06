@@ -11,7 +11,7 @@
 * Software Manager: Responsible for administrative management of a medium sized, co-located technical team
 * Team Mentor: Responsible for training, code review and general mentorship
 * Technical Leadership:  
-* Systems Architecture: Responsible for high and low level technical decisions and coordinating with our Senior Architect
+* Systems Architecture: Responsible for high and low level technical decisions and coordinating with our Senior Architect while developing a platform that is in use by over 9000 US graduate school admissions offices. 
 
 ### Consultant / Partner, Division By Zero LLC
 **July 2007 - Present**
