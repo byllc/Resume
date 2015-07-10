@@ -4,7 +4,7 @@
 ## Experience
  A wide range of experience in computing and information technology.I have maintained long term relationships with companies I have consulted and worked for,  many of whom continue to consider me a trusted source for assisting in their technology decisions. 
  
-### Software / Operations Engineer,  Stark & Wayne
+### Cloud Architect,  Stark & Wayne
 **January 2014 - Present**
  * Operations Engineer: Helping build platform-as-a-service offerings such as CloudFoundry. Providing operations support, business and platform analysis and engineering support for clients who are building out or choosing cloud based solutions.
  * Software Engineer: Building tools to help support platform as a service and cloud based service offerings
