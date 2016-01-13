@@ -127,6 +127,7 @@ technologies including Java, PHP, MS Access, Alpha 5 and Various other languages
 ### Adventures in Data Sitting, Western New York Ruby 2012
 ### An exploration of Modified Matheiu's Equation, SUNY Buffalo 2006 (Unpublished Thesis)
 ### The Data: An ETL Adventure, Western New York Database Seminar 2014
+### A presenation on embracing failure as a step towards success - Young Men's Leadership Academy (Daemen College) 
 
 ## Affiliations and Appointments
 * Co-Organizer - Nickle City Ruby Conference
