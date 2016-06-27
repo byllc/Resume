@@ -2,12 +2,14 @@
 **wwchapman+resume@gmail.com**
 
 ## Experience
- A wide range of experience in computing and information technology.I have maintained long term relationships with companies I have consulted and worked for,  many of whom continue to consider me a trusted source for assisting in their technology decisions. 
+ A wide range of experience in computing and information technology. I have maintained long term relationships with companies I have consulted and worked for,  many of whom continue to consider me a trusted source for assisting in their technology decisions. 
  
 ### Cloud Architect,  Stark & Wayne
 **January 2014 - Present**
+ * Cloud Architect: Designing and directing implementation of cloud based technologies and bespoke internal components. 
  * Operations Engineer: Helping build platform-as-a-service offerings such as CloudFoundry. Providing operations support, business and platform analysis and engineering support for clients who are building out or choosing cloud based solutions.
  * Software Engineer: Building tools to help support platform as a service and cloud based service offerings
+ * Project Lead: Contributing to the opensource community and leading projects for large enterprise clients. 
 
 
 ### Software Development Team Lead / Development Manager,  Academic Software Plus / Liaison Intl.
@@ -93,11 +95,11 @@ technologies including Java, PHP, MS Access, Alpha 5 and Various other languages
 * Team Leader: Performed both the roles of squad and team leader at various times
 
 ## Technical Expertise
-* Worked professionally with:  Ruby, C, Objective-C, Java, PHP, Javascript, Actionscript, SQL, Visual Basic
+* Worked professionally with: Go, Ruby, C, Objective-C, Java, PHP, Javascript, Actionscript, SQL, Visual Basic
 * Academic and hobby knowledge: MPI(C), Matlab, Mathematica, Erlang, Smalltalk, Go, and other languages, Electronics and Microcontrollers, OpenScad
 * System Administration: Linux/Unix, MacOS and Windows, Novell (CNA)
 * Database Experience: PostgreSQL, MySQL, MSSQL and Redis, MS Access
-* Enterprise Patterns: Real Time data migration and ETL solutions, Parallelization, Process Scaling
+* Enterprise Patterns: Real Time data migration and ETL solutions, Parallelization, Process Scaling, 12 Factor 
 
 ## Administrative Experience
 * Training, Mentoring
@@ -128,6 +130,7 @@ technologies including Java, PHP, MS Access, Alpha 5 and Various other languages
 ### An exploration of Modified Matheiu's Equation, SUNY Buffalo 2006 (Unpublished Thesis)
 ### The Data: An ETL Adventure, Western New York Database Seminar 2014
 ### A presenation on embracing failure as a step towards success - Young Men's Leadership Academy (Daemen College) 
+### Chaos Heidi vs Orchard: Self distruption and healing in a Cloudfoundry based service environment 
 
 ## Affiliations and Appointments
 * Co-Organizer - Nickle City Ruby Conference
