@@ -125,12 +125,13 @@ technologies including Java, PHP, MS Access, Alpha 5 and Various other languages
 * Coursework: Interpersonal Communications, Personality Profiles, Conflict Resolution, Counselling and Mentoring 
 
 ## Presentations and Papers
-### Think Twice Code Once,  Mountain West Ruby Conference 2013
-### Adventures in Data Sitting, Western New York Ruby 2012
-### An exploration of Modified Matheiu's Equation, SUNY Buffalo 2006 (Unpublished Thesis)
-### The Data: An ETL Adventure, Western New York Database Seminar 2014
-### A presenation on embracing failure as a step towards success - Young Men's Leadership Academy (Daemen College) 
-### Chaos Heidi vs Orchard: Self distruption and healing in a Cloudfoundry based service environment 
+#### Think Twice Code Once,  Mountain West Ruby Conference 2013
+#### Adventures in Data Sitting, Western New York Ruby 2012
+#### An exploration of Modified Matheiu's Equation, SUNY Buffalo 2006 (Unpublished Thesis)
+#### The Data: An ETL Adventure, Western New York Database Seminar 2014
+#### A presenation on embracing failure as a step towards success - Young Men's Leadership Academy (Daemen College) 
+#### Chaos Heidi vs Orchard: Self distruption and healing in a Cloudfoundry based service environment 
+#### Troubleshooting Cloud Foundry on OpenStack, Openstack Summit Boston 2017 
 
 ## Affiliations and Appointments
 * Co-Organizer - Nickle City Ruby Conference
