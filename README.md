@@ -4,7 +4,7 @@
 ## Experience
  A wide range of experience in computing and information technology. I have maintained long term relationships with companies I have consulted and worked for,  many of whom continue to consider me a trusted source for assisting in their technology decisions. 
 
-### Technical Director, Stark & Wayne
+### Director of Engineering, Stark & Wayne
 **February 2017 - Present**
  * Provide technical direction and leadership
  * Manage and coordinate projects, team leads, engineers and architects on software and operations projects.
