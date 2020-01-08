@@ -26,11 +26,11 @@ Bill was a founding member of consultancy specializing in web and server technol
 
 ### Application Support and Deployment Engineer, Engine Yard Inc.
 **April 2008 - September 2009**
-At Engine Yard Bill Maintained daily technical interaction with start-ups all over the world. Bill was responsible for deploying, maintaining, and scaling applications in a wide range of technologies but primarily served applications based around the Ruby on Rails stack. Bill was often the first consultant that a client would interact with and has been responsible for the initial deployment and application scaling for quite a few businesses that have grown to become household names.
+At Engine Yard Bill Maintained daily technical interaction with start-ups all over the world. Bill was responsible for deploying, maintaining, and scaling applications in a wide range of technologies but primarily served those based around the Ruby on Rails stack. Bill was often the first consultant that a client would interact with and has been responsible for the initial deployment and application scaling for quite a few businesses that have grown to become household names.
 
 ### Partner, Surplus Stock Exchange 
 **May 2006 - January 2008**
-Bill was a co-founder as part of a team building an application for redistributing surplus carbide and diamond tooling and computer numerical control equipment.
+Bill was part of a team building an application for redistributing surplus carbide and diamond tooling and computer numerical control equipment. 
 
 ### Managing Partner, Medical Records Online Inc
 **May 2004 - March 2006**
@@ -41,33 +41,18 @@ Bill co-founded Medical Records Online INC, specializing in online medical recor
 Bill started this consultancy to address the need for affordable and reliable on-premise managed services for small to medium sized business and non-profit organizations. His primary business model was based on third party network administration but he also did a significant amount of software development, IT Consulting, technical training, business analysis and workflow optimization.
 
 ### Graduate Teaching Assistant, State University of New York at Buffalo
-* Taught and mentored students in undergraduate level mathematics
+* Taught and mentored students
 * Course teaching assignments included All levels of Calculus, Differential and Partial Differential Equations, Linear Algebra and Numerical Analysis
 
-### Technical Support/Corporate Trainer/Systems Administrator, User Friendly YCS
-**December 1998 - May 2000**
-* Corporate Training: Provided structured training classes in Office applications
-* Software and Hardware troubleshooting: PC Repair and System Building
-* Technical Support: End User customer support in person and via telephone
+## Military Experience
 
 ### Reserve Infantryman / Marksmanship Instructor, United States Marine Corps Reserve
 **May1996 – May 2003**
-* Marksmanship Instructor: Responsible for marksmanship training of individual marines
-* Communications Operator: Radio communications and company wide communications coordination
-* Team Leader: Performed both the roles of squad and team leader at various times
-
-## Technical Expertise
-* Worked professionally with: Go, Ruby, C, Objective-C, Java, PHP, Javascript, Actionscript, SQL, Visual Basic
-* Academic and hobby knowledge: MPI(C), Matlab, Mathematica, Erlang, Smalltalk, Go, and other languages, Electronics and Microcontrollers, OpenScad
-* System Administration: Linux/Unix, MacOS and Windows, Novell (CNA)
-* Database Experience: PostgreSQL, MySQL, MSSQL and Redis, MS Access
-* Enterprise Patterns: Real Time data migration and ETL solutions, Parallelization, Process Scaling, 12 Factor 
-
-## Administrative Experience
-* Training, Mentoring
-* Management of small and medium sized teams
-* Coordinating remote teams
-* Business anaysis and project management
+* Honorably discharged at rank of Sergeant (E5) 
+* Primary Occupation Infantryman
+* Secondary Occupation Marksmanship Instructor: Marksmanship coaching and training, the primary skillset of every Marine
+* Communications Operator: Short wave radio and company wide communications coordination
+* Team Leader: Managed and trained Marines in high stress environments
 
 ## Education
 
@@ -94,7 +79,7 @@ Bill started this consultancy to address the need for affordable and reliable on
 #### A presenation on embracing failure as a step towards success - Young Men's Leadership Academy (Daemen College) 
 #### Chaos Heidi vs Orchard: Self distruption and healing in a Cloudfoundry based service environment 
 #### Troubleshooting Cloud Foundry on OpenStack, Openstack Summit Boston 2017 
-#### Thank you for calling Stark & Wayne. How may I Help You! A Presentation on Servant Leadership CF Summit EU 2019
+#### Thank you for calling Stark & Wayne. A Presentation on Servant Leadership - CF Summit EU 2019
 
 ## Affiliations and Appointments
 * Co-Organizer - Nickle City Ruby Conference
@@ -103,5 +88,3 @@ Bill started this consultancy to address the need for affordable and reliable on
 * Board Member and Technology Consultant - Building Bridges Network (2007)
 * Partner / Technology Advisor - BLO Boards, B.Loved
 
-## Certifications (currently here for posterity) 
-  Comptia A+(1998), Comptia Network+(1999), Certified Novel Administrator(1999), Apple Certified Technician
