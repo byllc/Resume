@@ -2,53 +2,31 @@
 **wwchapman+resume@gmail.com**
 
 ## Experience
- A wide range of experience in computing and information technology. I have maintained long term relationships with companies I have consulted and worked for,  many of whom continue to consider me a trusted source for assisting in their technology decisions. 
+
+### Vice President of Engineering, Stark & Wayne
+**January 2018 - Present**
+Stark & Wayne has given Bill the opportunity to lead a brilliant engineering organization. Bill appreciates how much energy and satisfaction can be gained by focusing on the human elements of software engineering. In this role Bill focuses on being a force multiplier for his leadership team. Providing them with the support and guidance they need and then getting out of their way so they can do great work.
 
 ### Director of Engineering, Stark & Wayne
-**February 2017 - Present**
- * Provide technical direction and leadership
- * Manage and coordinate projects, team leads, engineers and architects on software and operations projects.
- * Provide technical expertise and escalation for our enterprise client base
- * Handle HR/Administrative duties for my direct reports
+**February 2017 - January 2018**
+  As an engineering director at Stark & Wayne Bill was responsible for the technical delivery, staffing, and coordination of, integration, automation, and cloud based initiatives for multi-national enterprise. With clients including large business, government, and significant membership in the Fortune 500, Bill has had to develop a broad set of skills for managing enterprise projects and leading technical teams.
 
-### Cloud Architect,  Stark & Wayne
+### Cloud Architect/Solutions Engineer  Stark & Wayne
 **January 2014 - February 2017**
- * Cloud Architect: Designing and directing implementation of cloud based technologies and bespoke internal components. 
- * Operations Engineer: Helping build platform-as-a-service offerings such as CloudFoundry. Providing operations support, business and platform analysis and engineering support for clients who are building out or choosing cloud based solutions.
- * Software Engineer: Building tools to help support platform as a service and cloud based service offerings
- * Project Lead: Contributing to the opensource community and leading projects for large enterprise clients. 
+Focusing on platform-as-a-service offerings, Bill's role here was to provide operations support, business and platform analysis and engineering support for clients who are building out or choosing cloud based solutions. 
 
 
 ### Software Development Team Lead / Development Manager,  Academic Software Plus / Liaison Intl.
-**August 2011 - 2014**
-* Software Manager: Responsible for administrative management of a medium sized, co-located technical team
-* Team Mentor: Responsible for training, code review and general mentorship
-* Technical Leadership:  
-* Systems Architecture: Responsible for high and low level technical decision while developing a platform that is in use by over 9000 US graduate school admissions offices. 
+**August 2009 - December 2014**
+Bill was responsible for the technical leadership, mentoring and organization of a fast paced development and software operations team. Bill's team developed and maintained Liaison's flagship product, WebAdMIT, as well as a large suite of ETL and data management tools. WebAdMIT played a key role in Liasion's acquisition by private equity firm Warburg Pincus, and Bill stayed on through the acquisition, helping the team navigate change and growth. 
 
 ### Consultant / Partner, Division By Zero LLC
-**July 2007 - Present**
-* Partner: Co-founded a successful consulting venture 
-* Project Manager: Managed customer expectations and distilled requirements for the rest of the team
-* Architect: Responsible for both high an low level design and implementation decisions
-* Software Developer: Worked on a wide range of projects in Ruby/Rails, Java, Bash, Javascript, PHP, Visual Basic, SQL
-  projects included but are not limited to an occupational risk management classification system, an office management and
-  payroll system,  a CRM system for a staffing agency and a real time call center analytics dashboard for a large telecom. 
-
-### Software Developer / Systems Administrator, Academic Software Plus / Liaison Intl.
-**August 2009-August 2011**
-* Senior Software Developer: Was hired to help architect a college admissions portal in Ruby on Rails
-* Application Deployment: Provided significant expertise in Ruby application deployment
-* Systems Administration: General linux system administration and support for other members of the team 
-* Enterprise Architect: Designed maintained and deployed a real time ETL solution in Ruby to coordinate data
-between a large suite of college applications portals and our admissions application. 
+**July 2007 - January 2016**
+Bill was a founding member of consultancy specializing in web and server technologies with a large base of experience in web application development and deployment, migrating from and integrating with legacy software, and general technical consulting. Here Bill was responsible for planning, implementation, and development of projects spanning a wide array of industries, for domestic and international clients.
 
 ### Application Support and Deployment Engineer, Engine Yard Inc.
-**May 2008 - August 2009**
-* Application Support: System and code level application and technical support for Ruby/Rails/PHP/SQL and supporting technologies
-* Deployment: Spent several months as a member of our deployment team deploying a large number Rails applications
-* Systems Administration: Responsible for general linux system administration tasks, process monitoring, log rotation, performance troubleshooting etc..
-* Customer Support: Occasionally assisting customers on the phone or in person at public events with technical issues. 
+**April 2008 - September 2009**
+At Engine Yard Bill Maintained daily technical interaction with start-ups all over the world. Bill was responsible for deploying, maintaining, and scaling applications in a wide range of technologies but primarily served applications based around the Ruby on Rails stack. Bill was often the first consultant that a client would interact with and has been responsible for the initial deployment and application scaling for quite a few businesses that have grown to become household names.
 
 ### Senior Software Developer, Object Insight Inc. 
 **November 2007 - May 2008**
@@ -60,30 +38,20 @@ a team of remote  developers, contributing architecture, management and developm
 to their flagship project.
 
 ### Partner, Surplus Stock Exchange 
-**May 2006 - August 2007**
-* Co-Founder: Contributing to business related decisions as part of a small startup team. 
-* Senior Software Developer: Along with two other developers we successfully built a system for distributing and
-categorizing millions of surplus tooling parts and machinery. The final product was a Ruby on Rails application with
-significant javascript and minor Flash components. 
+**May 2006 - January 2008**
+Bill was a co-founder as part of a team building an application for redistributing surplus carbide and diamond tooling and computer numerical control equipment.
 
-### Partner, Medical Records Online Inc
-**May 2005 - April 2006 **
-* Co-Founder: As the technical partner I was responsible for putting together a team of developers and
-managing the technical goals of the project. I was also responsible for being part of all business related decisions.
-* Successfully launched an online medical records solution in 8 months including ICD9/10,NDCD, and HL7 integrations and limited social network capabilities. 
-
-### Graduate Teaching Assistant, State University of New York at Buffalo
-* Taught and mentored students in undergraduate level mathematics
-* Course assignments included All levels of Calculus, Differential and Partial Differential Equations, Linear Algebra and Numerical Analysis
+### Managing Partner, Medical Records Online Inc
+**May 2004 - March 2006**
+Bill co-founded Medical Records Online INC, specializing in online medical records management. As one of three founders Bill was primarily responsible act as VP of Engineering, directing the delivery of the primary product.
 
 ### Owner (DBA) WCTS Consulting 
 **May 2000 - May 2005** 
-* Network and Server administration: Provided Server administration for Linux, Windows and Novell platforms. 
-* Corporate Training: Provided structured training and generated courseware for Office and Internet Applications
-* Software Development: Developed a PHP based content management system as well as the initial version of a patient management
-system for an occupational medical company also in PHP. I was often called to troubleshoot and fix software in many different 
-technologies including Java, PHP, MS Access, Alpha 5 and Various other languages and frameworks. 
-* Software and Hardware Troubleshooting.
+Bill started this consultancy to address the need for affordable and reliable on-premise managed services for small to medium sized business and non-profit organizations. His primary business model was based on third party network administration but he also did a significant amount of software development, IT Consulting, technical training, business analysis and workflow optimization.
+
+### Graduate Teaching Assistant, State University of New York at Buffalo
+* Taught and mentored students in undergraduate level mathematics
+* Course teaching assignments included All levels of Calculus, Differential and Partial Differential Equations, Linear Algebra and Numerical Analysis
 
 ### Technical Support/Corporate Trainer/Systems Administrator, User Friendly YCS
 **December 1998 - May 2000**
@@ -134,11 +102,12 @@ technologies including Java, PHP, MS Access, Alpha 5 and Various other languages
 ## Presentations and Papers
 #### Think Twice Code Once,  Mountain West Ruby Conference 2013
 #### Adventures in Data Sitting, Western New York Ruby 2012
-#### An exploration of Modified Matheiu's Equation, SUNY Buffalo 2006 (Unpublished Thesis)
+#### An exploration of Modified Matheiu's Equation, SUNY Buffalo 2006 (Unpublished)
 #### The Data: An ETL Adventure, Western New York Database Seminar 2014
 #### A presenation on embracing failure as a step towards success - Young Men's Leadership Academy (Daemen College) 
 #### Chaos Heidi vs Orchard: Self distruption and healing in a Cloudfoundry based service environment 
 #### Troubleshooting Cloud Foundry on OpenStack, Openstack Summit Boston 2017 
+#### Thank you for calling Stark & Wayne. How may I Help You! A Presentation on Servant Leadership CF Summit EU 2019
 
 ## Affiliations and Appointments
 * Co-Organizer - Nickle City Ruby Conference
