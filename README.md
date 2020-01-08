@@ -2,6 +2,7 @@
 **wwchapman+resume@gmail.com**
 
 ## Experience
+  Bill is a technical leader with significant experience helping companies across several industries and throughout the Global Fortune 2000 implement technologies to scale and improve their businesses. For over a decade he has focused on managing and scaling high performing teams building distrubuted software and platforms. 
 
 ### Vice President of Engineering, Stark & Wayne
 **January 2018 - Present**
@@ -15,7 +16,6 @@ Stark & Wayne has given Bill the opportunity to lead a brilliant engineering org
 **January 2014 - February 2017**
 Focusing on platform-as-a-service offerings, Bill's role here was to provide operations support, business and platform analysis and engineering support for clients who are building out or choosing cloud based solutions. 
 
-
 ### Software Development Team Lead / Development Manager,  Academic Software Plus / Liaison Intl.
 **August 2009 - December 2014**
 Bill was responsible for the technical leadership, mentoring and organization of a fast paced development and software operations team. Bill's team developed and maintained Liaison's flagship product, WebAdMIT, as well as a large suite of ETL and data management tools. WebAdMIT played a key role in Liasion's acquisition by private equity firm Warburg Pincus, and Bill stayed on through the acquisition, helping the team navigate change and growth. 
@@ -28,22 +28,13 @@ Bill was a founding member of consultancy specializing in web and server technol
 **April 2008 - September 2009**
 At Engine Yard Bill Maintained daily technical interaction with start-ups all over the world. Bill was responsible for deploying, maintaining, and scaling applications in a wide range of technologies but primarily served applications based around the Ruby on Rails stack. Bill was often the first consultant that a client would interact with and has been responsible for the initial deployment and application scaling for quite a few businesses that have grown to become household names.
 
-### Senior Software Developer, Object Insight Inc. 
-**November 2007 - May 2008**
-* Senior Software Developer. Brought on to help this start-up reach MVP
-* Consultant:  Relationship with this company continued post employment via 
-Division By Zero consulting.
-Assisted with the technical bootstrapping of this business. Responsibilities included managing 
-a team of remote  developers, contributing architecture, management and development efforts 
-to their flagship project.
-
 ### Partner, Surplus Stock Exchange 
 **May 2006 - January 2008**
 Bill was a co-founder as part of a team building an application for redistributing surplus carbide and diamond tooling and computer numerical control equipment.
 
 ### Managing Partner, Medical Records Online Inc
 **May 2004 - March 2006**
-Bill co-founded Medical Records Online INC, specializing in online medical records management. As one of three founders Bill was primarily responsible act as VP of Engineering, directing the delivery of the primary product.
+Bill co-founded Medical Records Online INC, specializing in online medical records management. As the technical partner Bill was primarily responsible act as VP of Engineering, directing the delivery of the primary product and managing the development team. 
 
 ### Owner (DBA) WCTS Consulting 
 **May 2000 - May 2005** 
@@ -58,10 +49,6 @@ Bill started this consultancy to address the need for affordable and reliable on
 * Corporate Training: Provided structured training classes in Office applications
 * Software and Hardware troubleshooting: PC Repair and System Building
 * Technical Support: End User customer support in person and via telephone
-
-### End User Support, Softbank Services Group/Microsoft
-**1997**
-* Customer Support:  Provided end user phone support directly for Microsoft. 
 
 ### Reserve Infantryman / Marksmanship Instructor, United States Marine Corps Reserve
 **May1996 – May 2003**
