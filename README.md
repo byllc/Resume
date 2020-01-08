@@ -1,53 +1,53 @@
 # William W. Chapman II
 **wwchapman+resume@gmail.com**
 
-## Experience
+## Experience  
   Bill is a technical leader with significant experience helping companies across several industries and throughout the Global Fortune 2000 implement technologies to scale and improve their businesses. For over a decade he has focused on managing and scaling high performing teams building distrubuted software and platforms. 
 
 ### Vice President of Engineering, Stark & Wayne
-**January 2018 - Present**
+**January 2018 - Present**  
 Stark & Wayne has given Bill the opportunity to lead a brilliant engineering organization. Bill appreciates how much energy and satisfaction can be gained by focusing on the human elements of software engineering. In this role Bill focuses on being a force multiplier for his leadership team. Providing them with the support and guidance they need and then getting out of their way so they can do great work.
 
 ### Director of Engineering, Stark & Wayne
-**February 2017 - January 2018**
+**February 2017 - January 2018**  
   As an engineering director at Stark & Wayne Bill was responsible for the technical delivery, staffing, and coordination of, integration, automation, and cloud based initiatives for multi-national enterprise. With clients including large business, government, and significant membership in the Fortune 500, Bill has had to develop a broad set of skills for managing enterprise projects and leading technical teams.
 
 ### Cloud Architect/Solutions Engineer  Stark & Wayne
-**January 2014 - February 2017**
+**January 2014 - February 2017**  
 Focusing on platform-as-a-service offerings, Bill's role here was to provide operations support, business and platform analysis and engineering support for clients who are building out or choosing cloud based solutions. 
 
 ### Software Development Team Lead / Development Manager,  Academic Software Plus / Liaison Intl.
-**August 2009 - December 2014**
+**August 2009 - December 2014**     
 Bill was responsible for the technical leadership, mentoring and organization of a fast paced development and software operations team. Bill's team developed and maintained Liaison's flagship product, WebAdMIT, as well as a large suite of ETL and data management tools. WebAdMIT played a key role in Liasion's acquisition by private equity firm Warburg Pincus, and Bill stayed on through the acquisition, helping the team navigate change and growth. 
 
 ### Consultant / Partner, Division By Zero LLC
-**July 2007 - January 2016**
+**July 2007 - January 2016**   
 Bill was a founding member of consultancy specializing in web and server technologies with a large base of experience in web application development and deployment, migrating from and integrating with legacy software, and general technical consulting. Here Bill was responsible for planning, implementation, and development of projects spanning a wide array of industries, for domestic and international clients.
 
 ### Application Support and Deployment Engineer, Engine Yard Inc.
-**April 2008 - September 2009**
+**April 2008 - September 2009**   
 At Engine Yard Bill Maintained daily technical interaction with start-ups all over the world. Bill was responsible for deploying, maintaining, and scaling applications in a wide range of technologies but primarily served those based around the Ruby on Rails stack. Bill was often the first consultant that a client would interact with and has been responsible for the initial deployment and application scaling for quite a few businesses that have grown to become household names.
 
 ### Partner, Surplus Stock Exchange 
-**May 2006 - January 2008**
+**May 2006 - January 2008**   
 Bill was part of a team building an application for redistributing surplus carbide and diamond tooling and computer numerical control equipment. 
 
 ### Managing Partner, Medical Records Online Inc
-**May 2004 - March 2006**
+**May 2004 - March 2006**   
 Bill co-founded Medical Records Online INC, specializing in online medical records management. As the technical partner Bill was primarily responsible act as VP of Engineering, directing the delivery of the primary product and managing the development team. 
 
 ### Owner (DBA) WCTS Consulting 
-**May 2000 - May 2005** 
+**May 2000 - May 2005**   
 Bill started this consultancy to address the need for affordable and reliable on-premise managed services for small to medium sized business and non-profit organizations. His primary business model was based on third party network administration but he also did a significant amount of software development, IT Consulting, technical training, business analysis and workflow optimization.
 
-### Graduate Teaching Assistant, State University of New York at Buffalo
+### Graduate Teaching Assistant, State University of New York at Buffalo  
 * Taught and mentored students
 * Course teaching assignments included All levels of Calculus, Differential and Partial Differential Equations, Linear Algebra and Numerical Analysis
 
 ## Military Experience
 
 ### Reserve Infantryman / Marksmanship Instructor, United States Marine Corps Reserve
-**May1996 – May 2003**
+**May1996 – May 2003**  
 * Honorably discharged at rank of Sergeant (E5) 
 * Primary Occupation Infantryman
 * Secondary Occupation Marksmanship Instructor: Marksmanship coaching and training, the primary skillset of every Marine
