@@ -2,9 +2,14 @@
 **wwchapman+resume@gmail.com**
 
 ## Experience
+### Executive Office of the President - United States Digital Service
+**April 2022 - Present **
+
+### 28 Protons LLC
+**January 2019 - Present **
 
 ### Vice President of Engineering, Stark & Wayne
-**January 2018 - Present**
+**January 2018 - January 2019**
 Stark & Wayne has given Bill the opportunity to lead a brilliant engineering organization. Bill appreciates how much energy and satisfaction can be gained by focusing on the human elements of software engineering. In this role Bill focuses on being a force multiplier for his leadership team. Providing them with the support and guidance they need and then getting out of their way so they can do great work.
 
 ### Director of Engineering, Stark & Wayne
